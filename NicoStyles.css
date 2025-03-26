@@ -71,17 +71,17 @@ footer {
 .enrollstud {
     display: flex;
     flex-direction: column;
-    width: 300px; /* Adjust width as needed */
-    margin: 20px; /* Add some spacing */
+    width: 300px; 
+    margin: 20px; 
 }
 
 .enrollstud label {
-    margin-top: 10px; /* Space between label and input */
+    margin-top: 10px; 
 }
 
 .enrollstud input,
 .enrollstud select {
-    width: 100%; /* Full width */
+    width: 100%; 
     padding: 8px;
     margin-top: 5px;
     border: 1px solid #ccc;
